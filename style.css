@@ -7,7 +7,7 @@
 .banner {
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0, 214, 221, 0.404), rgba(15, 160, 136, 0.404)), url('https://interactiv.su/wp-content/uploads/2019/02/%D0%A1%D0%9C%D0%90%D0%A0%D0%A2-750x460.jpg');
+    background-image: linear-gradient(rgba(255, 253, 147, 0.479), rgba(255, 253, 147, 0.479)) url('https://interactiv.su/wp-content/uploads/2019/02/%D0%A1%D0%9C%D0%90%D0%A0%D0%A2-750x460.jpg');
     background-size: cover;
     background-position: center;
 }
